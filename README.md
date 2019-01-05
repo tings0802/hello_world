@@ -1,6 +1,7 @@
 # hello_world
-the first repository
+This is my first repository.
 
+How to use GitHub?
 1 create a repository
 2 create a branch
 3 make a commit
